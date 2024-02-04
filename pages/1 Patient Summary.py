@@ -11,15 +11,15 @@ with col1:
   
   st.subheader("Breed")
   cont1 = st.container(border=True)
-  cont1.write("Shiba Inu")
+  cont1.write("French Bulldog")
   
   st.subheader("Active Concerns")
   cont1 = st.container(border=True)
-  cont1.write("Spay 01-Aug-2019")
+  cont1.write("Wellness Exam")
   cont1 = st.container(border=True)
-  cont1.write("Otitis externa 28-Oct-2018")
+  cont1.write("Rabies Vaccine Due")
   cont1 = st.container(border=True)
-  cont1.write("Wellness/Preventive care 31-Aug-2017")
+  cont1.write("Wellness Exam")
 
   
 
