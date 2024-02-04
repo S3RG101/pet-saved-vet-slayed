@@ -38,6 +38,6 @@ with col2:
   
   st.subheader("Medications")
   cont1 = st.container(border=True)
-  cont1.write("Sentinel 11-25lb/5-11kg Green 6pk")
+  cont1.write("**Sentinel** 11-25lb/5-11kg Green 6pk")
   cont1 = st.container(border=True)
-  cont1.write("Rovera (Carprofen) 75mg Cw Tab")
+  cont1.write("**Rovera** (Carprofen) 75mg Cw Tab")
