@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title('Patient Summary')
 
+st.sidebar.image("petsave.png", use_column_width=True)
+
 col1, col2= st.columns(2)
 
 with col1:
