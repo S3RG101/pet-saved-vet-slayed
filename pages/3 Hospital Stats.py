@@ -31,4 +31,4 @@ series2 = [{
 "data": [15, 17, 23, 44]
 }]
 
-st_apexcharts(options2, series2, 'bar', '130%')
+st_apexcharts(options2, series2, 'bar', '200%')
