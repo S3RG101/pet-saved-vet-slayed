@@ -7,7 +7,7 @@ col1, col2= st.columns(2)
 with col1:
   st.subheader("Name")
   cont1 = st.container(border=True)
-  cont1.write("Esteban")
+  cont1.write("Stephana")
   
   st.subheader("Breed")
   cont1 = st.container(border=True)
