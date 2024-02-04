@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_apexjs import st_apexcharts
 
-st.set_page_config(page_title='Pet Saved, Vet Slayed®')
+st.set_page_config(page_title='Vet Aid Pet Saved®')
 
 st.title('Pet Saved, Vet Slayed®')
 
