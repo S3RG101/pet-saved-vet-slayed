@@ -12,6 +12,10 @@ with col1:
   st.subheader("Breed")
   cont1 = st.container(border=True)
   cont1.write("French Bulldog")
+
+  st.subheader("Medical Summary")
+  cont1 = st.container(border=True)
+  cont1.write("Previous history of resistant bacterial cystitis and otitis extema.")
   
   st.subheader("Active Concerns")
   cont1 = st.container(border=True)
