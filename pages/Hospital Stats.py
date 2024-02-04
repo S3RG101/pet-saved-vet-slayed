@@ -1,4 +1,5 @@
 from streamlit_apexjs import st_apexcharts
+import streamlit as st
 
 st.title('Hospital Stats')
 st.header('1 Month Antimicrobial Resistance')
