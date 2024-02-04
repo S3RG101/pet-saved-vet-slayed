@@ -19,7 +19,7 @@ with col1:
   cont1 = st.container(border=True)
   cont1.write("Rabies Vaccine Due")
   cont1 = st.container(border=True)
-  cont1.write("Wellness Exam")
+  cont1.write("Heartworm Testing")
 
   
 
