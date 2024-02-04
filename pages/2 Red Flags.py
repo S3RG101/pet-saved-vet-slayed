@@ -8,5 +8,5 @@ st.warning('''**Rabies Vaccine Reaction** (12/9/2023)
 # st.header("Drug Reactions")
 
 st.header("Antimicrobial Resistance")
-st.error('''**Bacterial Cystitis**
+st.error('''**Bacterial Cystitis**  
           Kaia had bacterial cystitis that was treated with amoxicillin for 7 days but it did not resolve. After doing a culture and sensitivity, it came back as resistant to amoxicillin.''')
