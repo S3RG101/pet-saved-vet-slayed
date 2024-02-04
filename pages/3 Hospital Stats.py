@@ -2,6 +2,9 @@ from streamlit_apexjs import st_apexcharts
 import streamlit as st
 
 st.title('Hospital Stats')
+
+st.sidebar.image("petsave.png", use_column_width=True)
+
 st.header('1 Month Antimicrobial Resistance')
 
 options2 = {
