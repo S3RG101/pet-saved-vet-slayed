@@ -33,15 +33,6 @@ def mainpage():
           st.experimental_rerun()
 
 
-def page2():
-  st.title('Red flags')
-  st.header("Vaccine Reactions")
-  st.text("Covid 19 Vaccine Reaction: On page 17, the dog showed negative ")
-
-  st.header("Drug Reactions")
-
-  st.header("Antimicrobial Resistance")
-
 
 def page3():
   st.title('Hospital Stats')
