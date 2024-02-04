@@ -1,6 +1,9 @@
 import streamlit as st
 
 st.title('Red Flags')
+
+st.sidebar.image("petsave.png", use_column_width=True)
+
 st.header("Vaccine Reactions")
 st.error('''**Rabies Vaccine Reaction** (12/9/2023)  
           Stephana had a reaction to her rabies vaccine. After 20 minutes she collapsed and had difficulty breathing. She was rushed to the crash table and supplemental oxygen was given.''')
