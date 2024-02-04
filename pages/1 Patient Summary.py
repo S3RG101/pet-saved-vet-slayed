@@ -35,9 +35,11 @@ with col2:
   st.subheader("Weight")
   cont1 = st.container(border=True)
   cont1.write("19.1 lb")
+
+  st.subheader("Behavior Concerns")
+  cont1 = st.container(border=True)
+  cont1.write("Noise Sensitive **go slow**")
   
-  st.subheader("Medications")
+  st.subheader("Current Medications")
   cont1 = st.container(border=True)
   cont1.write("**Sentinel** 11-25lb/5-11kg Green 6pk")
-  cont1 = st.container(border=True)
-  cont1.write("**Rovera** (Carprofen) 75mg Cw Tab")
