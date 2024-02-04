@@ -14,7 +14,7 @@ options2 = {
 
     "xaxis": {
         "categories":
-            ['MRSA', 'Campylobacter spp.', 'Salmonella spp.', 'E. coli']
+            ['Staphylococcus spp.', 'Campylobacter spp.', 'Salmonella spp.', 'E. coli']
     }
     ,
     "legend": {
