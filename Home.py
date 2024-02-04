@@ -3,6 +3,8 @@ from streamlit_apexjs import st_apexcharts
 
 st.set_page_config(page_title='Vet Aid Pet Saved®')
 
+st.sidebar.image("petsave.png", use_column_width=True)
+
 st.title('Vet Aid Pet Saved®')
 
 click = None
@@ -13,6 +15,3 @@ if click is None:
 if not file is None:
   click = st.button('Proceed')
   if click:
-
-    with st.sidebar:
-      print('Hello')
